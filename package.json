@@ -1,0 +1,25 @@
+{
+  "name": "graphql-acls",
+  "version": "0.0.1",
+  "description": "Simple example to do authentication",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "directives",
+    "graphQL",
+    "apollo",
+    "auth",
+    "acl"
+  ],
+  "author": "Jonathan Estrada <jeaworks@hotmail.com>",
+  "contributors": [],
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.7.2",
+    "graphql": "^14.4.2",
+    "graphql-tools": "^4.0.5"
+  }
+}
